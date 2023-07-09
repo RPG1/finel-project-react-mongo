@@ -1,0 +1,50 @@
+.className1 {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.className2 {
+    color: #343a40;
+}
+
+.className3 {
+    margin-top: 20px;
+}
+
+.className4 {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.className4 li {
+    margin-right: 10px;
+}
+
+.className4 li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.className5 {
+    margin-top: 50px;
+}
+
+.className6,
+.className7,
+.className8 {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+}
+
+.className6 h2,
+.className7 h2,
+.className8 h2 {
+    margin: 0;
+    color: #6c757d;
+}
